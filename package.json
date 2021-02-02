@@ -1,0 +1,23 @@
+{
+    "name": "ledstrip",
+    "version": "1.0.0",
+    "description": "\"Sandbox for playing with my govee strip\"",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/njsouthwood/ledstrip.git"
+    },
+    "author": "neil southwood",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/njsouthwood/ledstrip/issues"
+    },
+    "homepage": "https://github.com/njsouthwood/ledstrip#readme",
+    "dependencies": {
+        "bluebird": "^3.7.2",
+        "node-govee-led": "^1.4.1"
+    }
+}
